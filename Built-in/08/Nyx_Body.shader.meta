@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: ec7b92c0ae6db7e438c51d5635f8e48e
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _NormalMap: {fileID: 2800000, guid: 9092de7db844f6044943760a9e24b8be, type: 3}
+  - _NebulaTex: {fileID: 2800000, guid: 138b0afdfd7cab64c89b7ec35ccc17a1, type: 3}
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 23c69a7c1e02fcf4e8c4fdc2e3c064fb
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _GradientTex: {fileID: 2800000, guid: 41bb3342aad56ae4e8ce4bc905b3c059, type: 3}
+  - _NoiseTex: {fileID: 2800000, guid: db8a17037f86d9e41bedc03b81739e6b, type: 3}
+  - _FireShape: {fileID: 2800000, guid: 2be768ada115d054692b3375d6bfc6e0, type: 3}
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

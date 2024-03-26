@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 12fa12c7d2d6397438348e200d95f6e0
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _VertexAnimationNoise: {fileID: 2800000, guid: c62fcf287b97dcc4f8091f0107df6ab1, type: 3}
+  - _BaseTex: {fileID: 2800000, guid: 743dff48827dd9041949af4542c361c1, type: 3}
+  - _MatCap: {fileID: 2800000, guid: 4daf30927b9b77047955233919d7ca50, type: 3}
+  - _SlimeNormal: {fileID: 2800000, guid: 14d5df279c3145048990e3992dd97f70, type: 3}
+  - _EmissMap: {fileID: 2800000, guid: 231b75d5f3f583d4194114bd757154e5, type: 3}
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

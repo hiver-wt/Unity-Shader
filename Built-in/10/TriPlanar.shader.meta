@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 28842ebf320928645a6e2176e4655ab9
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _SlimeNormal: {fileID: 2800000, guid: a893d11d84ffd8d4791da29470b5351a, type: 3}
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

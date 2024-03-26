@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Dissolve_Double_Vertical 1
+  m_Shader: {fileID: 4800000, guid: 95f85b939a755544a88beac2fe59c3ff, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Gradient:
+        m_Texture: {fileID: 2800000, guid: b28a1c18dc150f14799e3197260c4c2a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Gradient01:
+        m_Texture: {fileID: 2800000, guid: b28a1c18dc150f14799e3197260c4c2a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: fdb7bb09d8edcf642b01b32a58ce044d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Noise:
+        m_Texture: {fileID: 2800000, guid: 0b741386b9612564188990f7c153bfbf, type: 3}
+        m_Scale: {x: 2, y: 2}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _ChangeAmount: 0
+    - _Cutoff: 0.5
+    - _EdgeColorEmiss: 20
+    - _EegeWidth: 1.432
+    - _Float2: 2.72
+    - _MainColorAdjust: 0
+    - _MnueControl: 0
+    - _NoiseSpeed: 0
+    - _ObjectScale: 2
+    - _Spread: 0.668
+    - _Test: 0
+    - __dirty: 0
+    m_Colors:
+    - _EdgeColor: {r: 0.17501774, g: 0.4272177, b: 0.6509434, a: 1}
+    - _MainColor: {r: 0.7216981, g: 0.85868967, b: 1, a: 1}
+  m_BuildTextureStacks: []
